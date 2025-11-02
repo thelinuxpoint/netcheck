@@ -16,8 +16,9 @@
 
 ## 🖥️ Preview
 <center>
-<img src='https://github.com/thelinuxpoint/netcheck/blob/main/out.png'>
+<img src='https://github.com/thelinuxpoint/netcheck/blob/main/out.png'/>
 </center>
+
 ## ⚙️ Installation
 
 ```bash
